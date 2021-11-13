@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "mobx": "^6.3.7",
+    "mobx-react": "^7.2.1",
     "react": "17.0.2",
     "react-native": "0.65.2"
   },
