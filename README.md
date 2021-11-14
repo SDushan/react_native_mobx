@@ -1,1 +1,3 @@
-# react_native_mobx
+# React Native MobX Example
+
+Sample application developed using React Native & MobX
